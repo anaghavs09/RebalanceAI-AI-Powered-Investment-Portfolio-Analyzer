@@ -357,6 +357,7 @@ NVDA Analysis:
 - Technical Score: -0.50/3.0
 - Fundamental Score: 1.50/4.0
 ```
+<img width="1905" height="930" alt="image" src="https://github.com/user-attachments/assets/029716d0-6d3b-4f2d-9e7f-c77add7bec1a" />
 
 ---
 
