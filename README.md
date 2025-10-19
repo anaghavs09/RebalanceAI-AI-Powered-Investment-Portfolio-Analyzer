@@ -1,4 +1,5 @@
 # RebalanceAI: AI-Powered Investment Portfolio Analyzer
+### Group 2: Shreyas Sreenivas, Anagha Veena Sanjeev, Harshitha Chandrashekar
 
 An intelligent investment co-pilot combining quantitative finance, AI sentiment analysis, and real-time economic data to deliver institutional-quality portfolio recommendations.
 
@@ -204,56 +205,30 @@ Position Weight = Final Score / Sum(All Final Scores)
 ## Usage Examples
 
 ### Example 1: Portfolio Allocation
-```
-Input:
-- Budget: $50,000
-- Risk: Moderate
-- Focus: Tech Heavy
+<img width="1404" height="125" alt="image" src="https://github.com/user-attachments/assets/edabecf3-7848-4d77-9ca9-11916f325581" />
+<img width="758" height="1053" alt="image" src="https://github.com/user-attachments/assets/4bebd312-be6e-4ff1-a0dc-a854fcbcfa12" />
 
-Output:
-6-stock portfolio:
-- META: 18.2% ($9,109)
-- NVDA: 18.1% ($9,037)
-- JPM: 17.4% ($8,702)
-- MSFT: 17.2% ($8,614)
-- V: 14.8% ($7,391)
-- AAPL: 14.3% ($7,148)
-
-Expected Sharpe: 0.80
-Portfolio Volatility: 32.6%
-Economic Conditions: Integrated
-```
 
 ### Example 2: AI Advisor Query
 ```
-Query: "Should I invest in Apple considering current Fed policy?"
+Query: "Should I invest in Apple considering current economic conditions and sentiment?"
 
-Response:
-✅ Current Price: $252.29
-✅ Sharpe Ratio: 0.33 (moderate)
-✅ P/E: 30.4, Growth: 9.6%
-✅ Sentiment: +0.34 (bullish)
-✅ Fed Rate: 4.22% (moderate environment)
-
-Recommendation: HOLD/MODERATE BUY
-Suggested Allocation: 10-15% for moderate risk profiles
 ```
+<img width="1921" height="1117" alt="image" src="https://github.com/user-attachments/assets/7da50743-58a7-4a38-9c5c-22d5685b4423" />
+
 
 ### Example 3: Stock Comparison
 ```
-Input: TSLA,NVDA,AAPL
-
-Output:
-Winner Summary:
-🥇 TSLA: 6 categories (Annual Return, Sharpe, Technical)
-🥈 AAPL: 4 categories (Low Volatility, Sentiment, P/E)
-🥉 NVDA: 4 categories (Revenue Growth, Margins, Fundamentals)
-
-Recommendations:
-- Conservative: AAPL (lowest volatility)
-- Balanced: TSLA (best Sharpe ratio)
-- Aggressive: NVDA (highest growth)
+Input: AAPL,MSFT,GOOGL
 ```
+<img width="791" height="1008" alt="image" src="https://github.com/user-attachments/assets/f6cd1b81-282c-477f-8ca0-4a907ef89d73" />
+<img width="823" height="513" alt="image" src="https://github.com/user-attachments/assets/b27b6e60-5831-4b92-b5a4-ce18258a47da" />
+
+### Example 4: Economic Calendar
+<img width="1198" height="316" alt="image" src="https://github.com/user-attachments/assets/3023f86d-5356-49a3-bee3-186771ef469f" />
+
+### Example 5: Multi-model Comparison
+<img width="1436" height="1068" alt="image" src="https://github.com/user-attachments/assets/ffd22ce5-f203-4925-a8c8-0db6e71b46ff" />
 
 ---
 
